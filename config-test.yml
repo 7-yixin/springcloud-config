@@ -1,1 +1,3 @@
 # 这是一个test.yml
+config: 
+  info: "main branch,springcloud-config/config-test.yml version=1"
